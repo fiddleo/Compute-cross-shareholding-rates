@@ -5,12 +5,7 @@
 
 For example, there are four companies named `A1`, `A2`, `A3 ` and  `A4`. Direct shareholding ratios between companies are presented as below.
 
-| company | controlled company | rate |
-| ------- | ------------------ | ---- |
-| A1      | A2                 | 0.1  |
-| A2      | A3                 | 0.2  |
-| A3      | A4                 | 0.7  |
-| A4      | A1                 | 0.1  |
+![image-20210323124317122](https://i.loli.net/2021/03/23/7EHI8qPGS9DBpeJ.png)
 
 * Explanation: Company `A1` holds 10% of Company `A2`'s shares; 
   * Company `A2` holds 20% of Company `A3`'s shares; 
