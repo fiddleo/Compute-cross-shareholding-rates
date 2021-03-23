@@ -1,4 +1,4 @@
-# Compute-cross-shareholding-rates
+# Compute cross shareholding rates
 ## Defenition and Demand
 
 "**Cross holding** is a situation in which a publicly-traded corporation owns stock in another publicly-traded company." (Will Kenton, 2021)
